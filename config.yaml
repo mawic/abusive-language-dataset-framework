@@ -1,0 +1,21 @@
+datasets:
+  - Waseem
+  - Davidson
+  - Founta
+  - Zampieri
+  - Vidgen
+non-hate-label:
+  Waseem:
+    - none
+  Davidson:
+    - neither
+  Founta:
+    - normal
+    - SPAM
+  Zampieri:
+    - NOT
+  Vidgen:
+    - none
+    - prejudice
+    - criticism
+    - counter

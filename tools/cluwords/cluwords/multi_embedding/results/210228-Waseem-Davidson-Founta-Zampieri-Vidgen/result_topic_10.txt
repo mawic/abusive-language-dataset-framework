@@ -1,0 +1,45 @@
+Topics 10
+Topics:
+would might can believe want possibly surely wish not suppose 
+bitch fucker asshole shithead whore faggot dickwad bastard douchebag jackass 
+liberals leftists democrats fascists rightwing conservatives commies republicans progressives marxists 
+nigga gon tryna finna muthafucka thuggin sucka jockin shawty homie 
+america greece british europe germany russia england korea australia spain 
+lol hahaha yah noooo geez nope anyways hey dunno nahhhh 
+muslims islam muzzie sunnis christians arabs hindus taliban daesh quran 
+quite even actually certainly obviously only hardly still but really 
+idiot moron dumbass imbecile stupid dimwit ignorant jackass retarded asinine 
+people those folks individuals many citizens persons who families millions 
+get want need take try give can come you tell 
+one last time every another first day next half this 
+women sexist misogynistic feminists female men racist girls ladies male 
+got came went had turned brought stopped knew looked took 
+know think believe what tell guess understand wonder suppose presume 
+like really something just think kinda looks feel want weird 
+china taiwan chongqing guangdong wuhan shanghai shenzhen xinjiang beijing hubei 
+putting telling going bringing pretending worrying complaining forgetting seeing insisting 
+fucking ass bitch pussy goddamn dicks twat cunts arse slut 
+horrible awful bad nasty hideous disgusting ugly crappy shitty stupid 
+PMI: 3.7106 (0.2141)
+NPMI:
+0.9421439755149108
+0.9578080472907534
+0.9178335700867054
+0.9389569000659445
+0.9191836853024631
+0.9160793055401343
+0.9229190389651302
+0.9333812529564044
+0.9213551344258433
+0.8642643146487453
+0.9520019802440816
+0.9076784836687354
+0.8442363820607336
+0.8932991152802799
+0.9428454097590889
+0.9115633685565613
+0.9867925738145362
+0.8469713175233894
+0.948738673860618
+0.9037124032040706
+avg NPMI: 0.9186 (0.0351)

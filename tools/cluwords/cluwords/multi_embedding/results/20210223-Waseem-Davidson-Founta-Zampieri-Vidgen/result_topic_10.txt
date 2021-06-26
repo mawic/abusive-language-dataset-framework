@@ -1,0 +1,45 @@
+Topics 10
+Topics:
+like think something really just looks kinda feel seem want 
+bitch fucking ass dickhead slut cunts goddamn whore shithead arse 
+liberals democrats leftists rightwingers conservatives socialists progressives republicans teabaggers authoritarians 
+get want need give try take can come you help 
+lol yeah hahaha noooo geez hey nope ohhhh anyways dunno 
+china taiwan wuhan fujian guangdong chongqing shanghai nanjing xinjiang hubei 
+niggas tryna finna gon muthafuckas witchu shawty homie thuggin partna 
+even but though still actually only obviously probably certainly hardly 
+good great nice very pretty really darn amazingly fantastic quite 
+one another thing two three every four all second first 
+stupid idiotic dumb ridiculous moronic pathetic laughable asinine silly ignorant 
+got went came turned brought stopped took figured looked knew 
+people folks individuals those citizens many persons who families all 
+know think what believe tell suppose guess wonder understand remember 
+muslim islamic arabs taliban daesh iranians alqaeda christians saudis hindus 
+would might did can want have believe wish surely hoped 
+going trying putting seeing bringing thinking figuring pretending making complaining 
+last week time day month year next after before first 
+woman girls men ladies young female male feminists daughters boy 
+america england california chicago europe spain brazil greece norway york 
+PMI: 3.7091 (0.2814)
+NPMI:
+0.9193428789656987
+0.9470347824761177
+0.9382975254549718
+0.9405176455357442
+0.9162597826718427
+0.9762654517743073
+0.9500168029398945
+0.940324856250961
+0.8913391580157182
+0.8739664125442237
+0.8990039686433793
+0.8822272705602279
+0.8479699753138866
+0.9423117635607141
+0.913404107447575
+0.9154424077248671
+0.8435781216943018
+0.909625556294992
+0.8685757314730249
+0.92456536839678
+avg NPMI: 0.912 (0.0345)

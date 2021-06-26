@@ -1,0 +1,45 @@
+Topics 5
+Topics:
+like think something really just 
+bitch fucking ass dickhead slut 
+liberals democrats leftists rightwingers conservatives 
+get want need give try 
+lol yeah hahaha noooo geez 
+china taiwan wuhan fujian guangdong 
+niggas tryna finna gon muthafuckas 
+even but though still actually 
+good great nice very pretty 
+one another thing two three 
+stupid idiotic dumb ridiculous moronic 
+got went came turned brought 
+people folks individuals those citizens 
+know think what believe tell 
+muslim islamic arabs taliban daesh 
+would might did can want 
+going trying putting seeing bringing 
+last week time day month 
+woman girls men ladies young 
+america england california chicago europe 
+PMI: 3.6951 (0.275)
+NPMI:
+0.9653048018354113
+0.9515398841579774
+0.9345410325852103
+0.953346201191688
+0.9132464025449064
+0.9767671824988994
+0.9379111284580021
+0.9445482716872775
+0.9121611893435063
+0.8646637375640592
+0.9160502711704422
+0.9146476825120723
+0.857689397844652
+0.947941371135996
+0.9256034535340674
+0.9528540244464181
+0.8608128806642101
+0.9276415226041046
+0.8904617877767269
+0.9203858771407267
+avg NPMI: 0.9234 (0.0329)

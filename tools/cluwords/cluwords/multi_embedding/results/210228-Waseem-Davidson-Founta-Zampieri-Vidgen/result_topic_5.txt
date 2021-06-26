@@ -1,0 +1,45 @@
+Topics 5
+Topics:
+would might can believe want 
+bitch fucker asshole shithead whore 
+liberals leftists democrats fascists rightwing 
+nigga gon tryna finna muthafucka 
+america greece british europe germany 
+lol hahaha yah noooo geez 
+muslims islam muzzie sunnis christians 
+quite even actually certainly obviously 
+idiot moron dumbass imbecile stupid 
+people those folks individuals many 
+get want need take try 
+one last time every another 
+women sexist misogynistic feminists female 
+got came went had turned 
+know think believe what tell 
+like really something just think 
+china taiwan chongqing guangdong wuhan 
+putting telling going bringing pretending 
+fucking ass bitch pussy goddamn 
+horrible awful bad nasty hideous 
+PMI: 3.6813 (0.2006)
+NPMI:
+0.9606302474803506
+0.958570536392299
+0.9365068529237758
+0.9319540739977988
+0.9240636233552222
+0.9144867128092246
+0.9087746079443529
+0.9391502694711218
+0.948850461157501
+0.8736458542676195
+0.9508068377587062
+0.913680100585297
+0.8430143609245826
+0.9089489142610748
+0.9521627209630478
+0.9673067917060032
+0.9849321715088029
+0.8518410277338213
+0.9459377535758915
+0.9019343891844981
+avg NPMI: 0.9259 (0.0364)
